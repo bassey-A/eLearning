@@ -1,0 +1,8 @@
+{
+    "users":
+    {
+        "eduek": {"name": "eduek", "subjects": ["english", "maths", "python"], "streak": 10},
+        "keini": {"name": "keini", "subjects": ["maths", "english", "python"], "streak": 6},
+        "dikara": {"name": "dikara", "subjects": ["maths", "english"], "streak": 4}
+    }
+}
