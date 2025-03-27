@@ -3,8 +3,8 @@
 
 - [] Create remote DB
 - [] Create connection to remote DB
-- [] Create user class
-- [] Create lesson class
+- [x] Create user class
+* [x] Create lesson class
 - [] Create DB object
 - [] Compare integration with firebase
 - [] Create android app
