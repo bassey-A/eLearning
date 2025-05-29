@@ -1,9 +1,10 @@
 from pathlib import Path
 
-class DirectoryCrawler():
+
+class DirectoryCrawler:
     """Look for the specified file(s)"""
 
-    def collector(self, file_extension):
+    def collector(self, file_extension: str) -> list[Path]:
         """Crawl through the folder and subfolders.
         Return a list of all files of the provided extension
         args: file_name, file_extension: eg *.txt, data.csv"""

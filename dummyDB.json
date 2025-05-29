@@ -1,8 +1,8 @@
 {
     "users":
     {
-        "eduek": {"name": "eduek", "subjects": ["english", "maths", "python"], "streak": 10},
-        "keini": {"name": "keini", "subjects": ["maths", "english", "python"], "streak": 6},
-        "dikara": {"name": "dikara", "subjects": ["maths", "english"], "streak": 4}
+        "eduek": {"name": "eduek", "last_login": "2025-03-27", "today": "2025-03-27", "streak": 10},
+        "keini": {"name": "keini", "last_login": "2025-03-27", "today": "2025-03-27", "streak": 6},
+        "dikara": {"name": "dikara", "last_login": "2025-03-27", "today": "2025-03-27", "streak": 4}
     }
 }
